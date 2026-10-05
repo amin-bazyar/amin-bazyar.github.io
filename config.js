@@ -9,7 +9,7 @@ const SITE = {
   formEndpoint: "https://formsubmit.co/ajax/d13c9b8d31df03d94c2aa686d9d6192a",
   github: "https://github.com/amin-bazyar",
   linkedin: "https://www.linkedin.com/in/amin-bazyar",
-  telegram: "t.me/Bazyar27",
+  telegram: "https://t.me/Bazyar27",
   skills: ["Python","Computer Vision"," NLP","LLMs","RAG","Machine Learning","Deep Learning","Time Series","Docker","Mlops","Jupyter / Colab","Git","Linux"],
   showNextSlot: true   // کارت خط‌چین «پروژه‌ی بعدی» آخر لیست؛ برای حذف false بگذار
 };
